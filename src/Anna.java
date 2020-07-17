@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Home {
+public class Anna {
     public static void main(String[] args) {
         System.out.println("Как вас зовут?");
         System.out.println("Только не врите");
